@@ -6,7 +6,7 @@
 ### Infrastructure Diagram
 ![alt text](https://github.com/belisky/iac-highly_available_webapp/blob/main/finalproj%20architecture.jpg?raw=true)
 
-### Some Resources provisioned using cloudformation.yaml file is :
+### Some Resources provisioned using cloudformation _(**first-try.yaml**)_ file is :
 - VPC
 - Subnets (Both Public and Private)
 - NAT Gateway
@@ -16,3 +16,5 @@
 - Route Tables
 - Auto Scaling Groups
 - AWS - EC2 Instances with different AZ's
+
+See **first-try.yaml** for code implementation in the project root directory.
