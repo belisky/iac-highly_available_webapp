@@ -1,0 +1,1 @@
+aws cloudformation update-stack  --stack-name finalprojTry1 --region us-east-1 --template-body file://first-try.yml --parameters file://first-params.json
