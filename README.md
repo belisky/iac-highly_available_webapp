@@ -1,4 +1,4 @@
-# Provisioning a Highly Available Web-Application using Infrastructure as Code(IaC)-- Cloud Formation
+# Provisioning a Highly Available Web-Application using Infrastructure as Code(IaC)-- AWS CloudFormation
 
 ## About
 - In this project I set up a highly available web application situated in a private subnet behind a load balancer which can spin more instances of the web app when demand rises.
